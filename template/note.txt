@@ -1,0 +1,4 @@
+Library Name : <?php echo $sysconf['library_name']; ?>
+Library Subname : <?php echo $sysconf['library_subname']; ?>
+library version : <?php echo SENAYAN_VERSION; ?>
+

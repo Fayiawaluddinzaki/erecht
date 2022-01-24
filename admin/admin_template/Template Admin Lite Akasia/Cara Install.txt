@@ -1,0 +1,37 @@
+Template Admin : lite
+=============================================
+
+untuk SLiMS 8 Akasia
+=============================================
+
+Template admin lite ini merupakan kolaborasi dari template admin meranti dan cendana pada slims 8 akasia
+
+- ciri khas meranti terdapat pada tampilan main content
+- ciri khas cendana terdapat pada tampilan header, footer/menu, dan submenu
+
+=========================================================================================================
+
+
+Cara install:
+
+- ekstrak file Template Admin Lite Akasia.zip hasil download sehingga akan menghasilkan folder Template Admin Lite Akasia
+
+- buka folder Template Admin Lite Akasia
+
+- copy folder lite ke folder slims Anda/admin/admin_template
+
+- login ke slims sebagai superuser
+
+- menuju ke menu sistem, submenu theme, kemudian aktifkan template admin lite
+
+- semoga bermanfaat
+
+===================================================================
+
+Hendri Sahroni (syahrony2185@gmail.com)
+
+===================================================================
+
+Terima kasih kepada Tim Developer SENAYAN Library Management System
+
+===================================================================
